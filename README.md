@@ -39,6 +39,20 @@ If you are a registered and authenticated admin, you can:
 * change or delete movie session
 
 Anyone who wants to use the application can register.
+
+Test credentials for this application you can get from section below.
+## 🗝️ Credentials
+**For user role:**
+
+login: user@gmail.com 
+
+password: user123
+
+**For admin role:**
+
+login: admin@gmail.com
+
+password: admin123
 ## 📑 Project structure
 The project is based on the N-tier architecture, which also follows the principles of SOLID, which provides:
 * presentation layer
@@ -70,5 +84,3 @@ Select **project-name:war-exploded**
 Just leave it empty
 
 6. Click OK
-
-Back to [How to Install and Run the Project](#how-to-install-and-run-the-project)
